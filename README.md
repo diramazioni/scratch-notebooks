@@ -1,2 +1,2 @@
-[Run extract and compute the mean of an eeg datasets](https://mybinder.org/v2/gh/diramazioni/scratch-notebooks.git/master?filepath=eeg_mean.ipynb)
+[View eeg datasets: extract and compute the mean](https://nbviewer.jupyter.org/github/diramazioni/scratch-notebooks/blob/master/eeg_mean.ipynb)
 
