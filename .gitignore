@@ -20,3 +20,5 @@ alcoholic/
 link\.txt
 
 Untitled\.ipynb
+
+__pycache__/
